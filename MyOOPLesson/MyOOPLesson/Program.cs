@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MyOOPLesson
 {
@@ -10,6 +6,10 @@ namespace MyOOPLesson
     {
         static void Main(string[] args)
         {
+            //Mora mora = new Mora();
+            //mora.Start();
+            //DrawAPoker drawAPoker = new DrawAPoker();
+            //drawAPoker.Start();
         }
     }
 }
