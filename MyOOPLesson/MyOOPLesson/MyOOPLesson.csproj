@@ -43,8 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HomWork2\DrawAPoker.cs" />
-    <Compile Include="HomWork2\Mora.cs" />
+    <Compile Include="HomeWork2\DrawAPoker.cs" />
+    <Compile Include="HomeWork2\Mora.cs" />
+    <Compile Include="HomeWork3\GetVIPInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

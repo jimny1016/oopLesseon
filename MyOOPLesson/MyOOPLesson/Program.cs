@@ -10,6 +10,8 @@ namespace MyOOPLesson
             //mora.Start();
             //DrawAPoker drawAPoker = new DrawAPoker();
             //drawAPoker.Start();
+            GetVIPInfo getVIPInfo = new GetVIPInfo();
+            getVIPInfo.test();
         }
     }
 }
