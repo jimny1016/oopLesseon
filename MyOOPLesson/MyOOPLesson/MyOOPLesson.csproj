@@ -46,6 +46,9 @@
     <Compile Include="HomeWork2\DrawAPoker.cs" />
     <Compile Include="HomeWork2\Mora.cs" />
     <Compile Include="HomeWork3\GetVIPInfo.cs" />
+    <Compile Include="HomeWork4\Game.cs" />
+    <Compile Include="HomeWork4\Plays.cs" />
+    <Compile Include="HomeWork4\Pokers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
